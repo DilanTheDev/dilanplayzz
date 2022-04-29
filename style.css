@@ -8,7 +8,7 @@
     display: table;
 }
 
-.group:after 
+.group:after
 {
     clear: both;
 }
